@@ -13,6 +13,7 @@
 - 내용(Content): 요소의 내용이며, 이 경우 단순한 텍스트이다.
 
 - 요소(Element): 여는 태그, 닫는 태그, 내용을 통틀어 요소(element)라고한다.
+## HTML 주석 처리 방법 및 HTML 구조 ##
 ![1](https://github.com/wkd6262/home/assets/142865132/d5c2d7e5-135d-4c71-a2af-0a2f8018bc7e)
 
 
